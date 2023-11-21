@@ -1,0 +1,151 @@
+code,link,video,pattern
+0217-contains-duplicate,contains-duplicate/,3OamzN90kPg,Arrays & Hashing
+0242-valid-anagram,valid-anagram/,9UtInBqnCgA,Arrays & Hashing
+0001-two-sum,two-sum/,KLlXCFG5TnA,Arrays & Hashing
+0049-group-anagrams,group-anagrams/,vzdNOK2oB2E,Arrays & Hashing
+0347-top-k-frequent-elements,top-k-frequent-elements/,YPTqKIgVk-k,Arrays & Hashing
+0238-product-of-array-except-self,product-of-array-except-self/,bNvIQI2wAjk,Arrays & Hashing
+0036-valid-sudoku,valid-sudoku/,TjFXEUCMqI8,Arrays & Hashing
+0271-encode-and-decode-strings,encode-and-decode-strings/,B1k_sxOSgv8,Arrays & Hashing
+0128-longest-consecutive-sequence,longest-consecutive-sequence/,P6RZZMu_maU,Arrays & Hashing
+0125-valid-palindrome,valid-palindrome/,jJXJ16kPFWg,Two Pointers
+0167-two-sum-ii-input-array-is-sorted,two-sum-ii-input-array-is-sorted/,cQ1Oz4ckceM,Two Pointers
+0015-3sum,3sum/,jzZsG8n2R9A,Two Pointers
+0011-container-with-most-water,container-with-most-water/,UuiTKBwPgAo,Two Pointers
+0042-trapping-rain-water,trapping-rain-water/,ZI2z5pq0TqA,Two Pointers
+0121-best-time-to-buy-and-sell-stock,best-time-to-buy-and-sell-stock/,1pkOgXD63yU,Sliding Window
+0003-longest-substring-without-repeating-characters,longest-substring-without-repeating-characters/,wiGpQwVHdE0,Sliding Window
+0424-longest-repeating-character-replacement,longest-repeating-character-replacement/,gqXU1UyA8pk,Sliding Window
+0567-permutation-in-string,permutation-in-string/,UbyhOgBN834,Sliding Window
+0076-minimum-window-substring,minimum-window-substring/,jSto0O4AJbM,Sliding Window
+0239-sliding-window-maximum,sliding-window-maximum/,DfljaUwZsOk,Sliding Window
+0020-valid-parentheses,valid-parentheses/,WTzjTskDFMg,Stack
+0155-min-stack,min-stack/,qkLl7nAwDPo,Stack
+0150-evaluate-reverse-polish-notation,evaluate-reverse-polish-notation/,iu0082c4HDE,Stack
+0022-generate-parentheses,generate-parentheses/,s9fokUqJ76A,Stack
+0739-daily-temperatures,daily-temperatures/,cTBiBSnjO3c,Stack
+0853-car-fleet,car-fleet/,Pr6T-3yB9RM,Stack
+0084-largest-rectangle-in-histogram,largest-rectangle-in-histogram/,zx5Sw9130L0,Stack
+0704-binary-search,binary-search/,s4DPM8ct1pI,Binary Search
+0074-search-a-2d-matrix,search-a-2d-matrix/,Ber2pi2C0j0,Binary Search
+0875-koko-eating-bananas,koko-eating-bananas/,U2SozAs9RzA,Binary Search
+0153-find-minimum-in-rotated-sorted-array,find-minimum-in-rotated-sorted-array/,nIVW4P8b1VA,Binary Search
+0033-search-in-rotated-sorted-array,search-in-rotated-sorted-array/,U8XENwh8Oy8,Binary Search
+0981-time-based-key-value-store,time-based-key-value-store/,fu2cD_6E8Hw,Binary Search
+0004-median-of-two-sorted-arrays,median-of-two-sorted-arrays/,q6IEA26hvXc,Binary Search
+0206-reverse-linked-list,reverse-linked-list/,G0_I-ZF0S38,Linked List
+0021-merge-two-sorted-lists,merge-two-sorted-lists/,XIdigk956u0,Linked List
+0143-reorder-list,reorder-list/,S5bfdUTrKLM,Linked List
+0019-remove-nth-node-from-end-of-list,remove-nth-node-from-end-of-list/,XVuQxVej6y8,Linked List
+0138-copy-list-with-random-pointer,copy-list-with-random-pointer/,5Y2EiZST97Y,Linked List
+0002-add-two-numbers,add-two-numbers/,wgFPrzTjm7s,Linked List
+0141-linked-list-cycle,linked-list-cycle/,gBTe7lFR3vc,Linked List
+0287-find-the-duplicate-number,find-the-duplicate-number/,wjYnzkAhcNk,Linked List
+0146-lru-cache,lru-cache/,7ABFKPK2hD4,Linked List
+0023-merge-k-sorted-lists,merge-k-sorted-lists/,q5a5OiGbT6Q,Linked List
+0025-reverse-nodes-in-k-group,reverse-nodes-in-k-group/,1UOPsfP85V4,Linked List
+0226-invert-binary-tree,invert-binary-tree/,OnSn2XEQ4MY,Trees
+0104-maximum-depth-of-binary-tree,maximum-depth-of-binary-tree/,hTM3phVI6YQ,Trees
+0543-diameter-of-binary-tree,diameter-of-binary-tree/,bkxqA8Rfv04,Trees
+0110-balanced-binary-tree,balanced-binary-tree/,QfJsau0ItOY,Trees
+0100-same-tree,same-tree/,vRbbcKXCxOw,Trees
+0572-subtree-of-another-tree,subtree-of-another-tree/,E36O5SWp-LE,Trees
+0235-lowest-common-ancestor-of-a-binary-search-tree,lowest-common-ancestor-of-a-binary-search-tree/,gs2LMfuOR9k,Trees
+0102-binary-tree-level-order-traversal,binary-tree-level-order-traversal/,6ZnyEApgFYg,Trees
+0199-binary-tree-right-side-view,binary-tree-right-side-view/,d4zLyf32e3I,Trees
+1448-count-good-nodes-in-binary-tree,count-good-nodes-in-binary-tree/,7cp5imvDzl4,Trees
+0098-validate-binary-search-tree,validate-binary-search-tree/,s6ATEkipzow,Trees
+0230-kth-smallest-element-in-a-bst,kth-smallest-element-in-a-bst/,5LUXSvjmGCw,Trees
+0105-construct-binary-tree-from-preorder-and-inorder-traversal,construct-binary-tree-from-preorder-and-inorder-traversal/,ihj4IQGZ2zc,Trees
+0124-binary-tree-maximum-path-sum,binary-tree-maximum-path-sum/,Hr5cWUld4vU,Trees
+0297-serialize-and-deserialize-binary-tree,serialize-and-deserialize-binary-tree/,u4JAi2JJhI8,Trees
+0208-implement-trie-prefix-tree,implement-trie-prefix-tree/,oobqoCJlHA0,Tries
+0211-design-add-and-search-words-data-structure,design-add-and-search-words-data-structure/,BTf05gs_8iU,Tries
+0212-word-search-ii,word-search-ii/,asbcE9mZz_U,Tries
+0703-kth-largest-element-in-a-stream,kth-largest-element-in-a-stream/,hOjcdrqMoQ8,Heap / Priority Queue
+1046-last-stone-weight,last-stone-weight/,B-QCq79-Vfw,Heap / Priority Queue
+0973-k-closest-points-to-origin,k-closest-points-to-origin/,rI2EBUEMfTk,Heap / Priority Queue
+0215-kth-largest-element-in-an-array,kth-largest-element-in-an-array/,XEmy13g1Qxc,Heap / Priority Queue
+0621-task-scheduler,task-scheduler/,s8p8ukTyA2I,Heap / Priority Queue
+0355-design-twitter,design-twitter/,pNichitDD2E,Heap / Priority Queue
+0295-find-median-from-data-stream,find-median-from-data-stream/,itmhHWaHupI,Heap / Priority Queue
+0078-subsets,subsets/,REOH22Xwdkk,Backtracking
+0039-combination-sum,combination-sum/,GBKI9VSKdGg,Backtracking
+0046-permutations,permutations/,s7AvT7cGdSo,Backtracking
+0090-subsets-ii,subsets-ii/,Vn2v6ajA7U0,Backtracking
+0040-combination-sum-ii,combination-sum-ii/,rSA3t6BDDwg,Backtracking
+0079-word-search,word-search/,pfiQ_PS1g8E,Backtracking
+0131-palindrome-partitioning,palindrome-partitioning/,3jvWodd7ht0,Backtracking
+0017-letter-combinations-of-a-phone-number,letter-combinations-of-a-phone-number/,0snEunUacZY,Backtracking
+0051-n-queens,n-queens/,Ph95IHmRp5M,Backtracking
+0200-number-of-islands,number-of-islands/,pV2kpPD66nE,Graphs
+0133-clone-graph,clone-graph/,mQeF6bN8hMk,Graphs
+0695-max-area-of-island,max-area-of-island/,iJGr1OtmH0c,Graphs
+0417-pacific-atlantic-water-flow,pacific-atlantic-water-flow/,s-VkcjHqkGI,Graphs
+0130-surrounded-regions,surrounded-regions/,9z2BunfoZ5Y,Graphs
+0994-rotting-oranges,rotting-oranges/,y704fEOx0s0,Graphs
+0286-walls-and-gates,walls-and-gates/,e69C6xhiSQE,Graphs
+0207-course-schedule,course-schedule/,EgI5nU9etnU,Graphs
+0210-course-schedule-ii,course-schedule-ii/,Akt3glAwyfY,Graphs
+0684-redundant-connection,redundant-connection/,FXWRE67PLL0,Graphs
+0323-number-of-connected-components-in-an-undirected-graph,number-of-connected-components-in-an-undirected-graph/,8f1XPm4WOUc,Graphs
+0261-graph-valid-tree,graph-valid-tree/,bXsUuownnoQ,Graphs
+0127-word-ladder,word-ladder/,h9iTnkgv05E,Graphs
+0332-reconstruct-itinerary,reconstruct-itinerary/,ZyB_gQ8vqGA,Advanced Graphs
+1584-min-cost-to-connect-all-points,min-cost-to-connect-all-points/,f7JOBJIC-NA,Advanced Graphs
+0743-network-delay-time,network-delay-time/,EaphyqKU4PQ,Advanced Graphs
+0778-swim-in-rising-water,swim-in-rising-water/,amvrKlMLuGY,Advanced Graphs
+0269-alien-dictionary,alien-dictionary/,6kTZYvNNyps,Advanced Graphs
+0787-cheapest-flights-within-k-stops,cheapest-flights-within-k-stops/,5eIK3zUdYmE,Advanced Graphs
+0070-climbing-stairs,climbing-stairs/,Y0lT9Fck7qI,1-D Dynamic Programming
+0746-min-cost-climbing-stairs,min-cost-climbing-stairs/,ktmzAZWkEZ0,1-D Dynamic Programming
+0198-house-robber,house-robber/,73r3KWiEvyk,1-D Dynamic Programming
+0213-house-robber-ii,house-robber-ii/,rWAJCfYYOvM,1-D Dynamic Programming
+0005-longest-palindromic-substring,longest-palindromic-substring/,XYQecbcd6_c,1-D Dynamic Programming
+0647-palindromic-substrings,palindromic-substrings/,4RACzI5-du8,1-D Dynamic Programming
+0091-decode-ways,decode-ways/,6aEyTjOwlJU,1-D Dynamic Programming
+0322-coin-change,coin-change/,H9bfqozjoqs,1-D Dynamic Programming
+0152-maximum-product-subarray,maximum-product-subarray/,lXVy6YWFcRM,1-D Dynamic Programming
+0139-word-break,word-break/,Sx9NNgInc3A,1-D Dynamic Programming
+0300-longest-increasing-subsequence,longest-increasing-subsequence/,cjWnW0hdF1Y,1-D Dynamic Programming
+0416-partition-equal-subset-sum,partition-equal-subset-sum/,IsvocB5BJhw,1-D Dynamic Programming
+0062-unique-paths,unique-paths/,IlEsdxuD4lY,2-D Dynamic Programming
+1143-longest-common-subsequence,longest-common-subsequence/,Ua0GhsJSlWM,2-D Dynamic Programming
+0309-best-time-to-buy-and-sell-stock-with-cooldown,best-time-to-buy-and-sell-stock-with-cooldown/,I7j0F7AHpb8,2-D Dynamic Programming
+0518-coin-change-ii,coin-change-ii/,Mjy4hd2xgrs,2-D Dynamic Programming
+0494-target-sum,target-sum/,g0npyaQtAQM,2-D Dynamic Programming
+0097-interleaving-string,interleaving-string/,3Rw3p9LrgvE,2-D Dynamic Programming
+0329-longest-increasing-path-in-a-matrix,longest-increasing-path-in-a-matrix/,wCc_nd-GiEc,2-D Dynamic Programming
+0115-distinct-subsequences,distinct-subsequences/,-RDzMJ33nx8,2-D Dynamic Programming
+0072-edit-distance,edit-distance/,XYi2-LPrwm4,2-D Dynamic Programming
+0312-burst-balloons,burst-balloons/,VFskby7lUbw,2-D Dynamic Programming
+0010-regular-expression-matching,regular-expression-matching/,HAA8mgxlov8,2-D Dynamic Programming
+0053-maximum-subarray,maximum-subarray/,5WZl3MMT0Eg,Greedy
+0055-jump-game,jump-game/,Yan0cv2cLy8,Greedy
+0045-jump-game-ii,jump-game-ii/,dJ7sWiOoK7g,Greedy
+0134-gas-station,gas-station/,lJwbPZGo05A,Greedy
+0846-hand-of-straights,hand-of-straights/,amnrMCVd2YI,Greedy
+1899-merge-triplets-to-form-target-triplet,merge-triplets-to-form-target-triplet/,kShkQLQZ9K4,Greedy
+0763-partition-labels,partition-labels/,B7m8UmZE-vw,Greedy
+0678-valid-parenthesis-string,valid-parenthesis-string/,QhPdNS143Qg,Greedy
+0057-insert-interval,insert-interval/,A8NUOmlwOlM,Intervals
+0056-merge-intervals,merge-intervals/,44H3cEC2fFM,Intervals
+0435-non-overlapping-intervals,non-overlapping-intervals/,nONCGxWoUfM,Intervals
+0252-meeting-rooms,meeting-rooms/,PaJxqZVPhbg,Intervals
+0253-meeting-rooms-ii,meeting-rooms-ii/,FdzJmTCVyJU,Intervals
+1851-minimum-interval-to-include-each-query,minimum-interval-to-include-each-query/,5hQ5WWW5awQ,Intervals
+0048-rotate-image,rotate-image/,fMSJSS7eO1w,Math & Geometry
+0054-spiral-matrix,spiral-matrix/,BJnMZNwUk1M,Math & Geometry
+0073-set-matrix-zeroes,set-matrix-zeroes/,T41rL0L3Pnw,Math & Geometry
+0202-happy-number,happy-number/,ljz85bxOYJ0,Math & Geometry
+0066-plus-one,plus-one/,jIaA8boiG1s,Math & Geometry
+0050-powx-n,powx-n/,g9YQyYi4IQQ,Math & Geometry
+0043-multiply-strings,multiply-strings/,1vZswirL8Y8,Math & Geometry
+2013-detect-squares,detect-squares/,bahebearrDc,Math & Geometry
+0136-single-number,single-number/,qMPX1AOa83k,Bit Manipulation
+0191-number-of-1-bits,number-of-1-bits/,5Km3utixwZs,Bit Manipulation
+0338-counting-bits,counting-bits/,RyBM56RIWrM,Bit Manipulation
+0190-reverse-bits,reverse-bits/,UcoN6UjAI64,Bit Manipulation
+0268-missing-number,missing-number/,WnPLSRLSANE,Bit Manipulation
+0371-sum-of-two-integers,sum-of-two-integers/,gVUrDV4tZfY,Bit Manipulation
+0007-reverse-integer,reverse-integer/,HAgLH58IgJQ,Bit Manipulation

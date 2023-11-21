@@ -1,0 +1,360 @@
+code,link,video,pattern
+1929-concatenation-of-array,concatenation-of-array/,68isPRHgcFQ,Arrays & Hashing
+1299-replace-elements-with-greatest-element-on-right-side,replace-elements-with-greatest-element-on-right-side/,ZHjKhUjcsaU,Arrays & Hashing
+0392-is-subsequence,is-subsequence/,99RVfqklbCE,Arrays & Hashing
+0058-length-of-last-word,length-of-last-word/,KT9rltZTybQ,Arrays & Hashing
+0014-longest-common-prefix,longest-common-prefix/,0sWShKIJoo4,Arrays & Hashing
+0118-pascals-triangle,pascals-triangle/,nPVEaB3AjUM,Arrays & Hashing
+0027-remove-element,remove-element/,Pcd1ii9P9ZI,Arrays & Hashing
+0929-unique-email-addresses,unique-email-addresses/,TC_xLIWl7qY,Arrays & Hashing
+0205-isomorphic-strings,isomorphic-strings/,7yF-U1hLEqQ,Arrays & Hashing
+0605-can-place-flowers,can-place-flowers/,ZGxqqjljpUI,Arrays & Hashing
+0169-majority-element,majority-element/,7pnhv842keE,Arrays & Hashing
+0496-next-greater-element-i,next-greater-element-i/,68a1Dc_qVq4,Arrays & Hashing
+0724-find-pivot-index,find-pivot-index/,u89i60lYx8U,Arrays & Hashing
+0303-range-sum-query-immutable,range-sum-query-immutable/,2pndAmo_sMA,Arrays & Hashing
+0448-find-all-numbers-disappeared-in-an-array,find-all-numbers-disappeared-in-an-array/,8i-f24YFWC4,Arrays & Hashing
+1189-maximum-number-of-balloons,maximum-number-of-balloons/,G9xeB2-7PqY,Arrays & Hashing
+0290-word-pattern,word-pattern/,W_akoecmCbM,Arrays & Hashing
+0705-design-hashset,design-hashset/,VymjPQUXjL8,Arrays & Hashing
+0706-design-hashmap,design-hashmap/,cNWsgbKwwoU,Arrays & Hashing
+0912-sort-an-array,sort-an-array/,MsYZSinhuFo,Arrays & Hashing
+0036-valid-sudoku,valid-sudoku/,TjFXEUCMqI8,Arrays & Hashing
+0075-sort-colors,sort-colors/,4xbWSRZHqac,Arrays & Hashing
+0535-encode-and-decode-tinyurl,encode-and-decode-tinyurl/,VyBOaboQLGc,Arrays & Hashing
+0554-brick-wall,brick-wall/,Kkmv2h48ekw,Arrays & Hashing
+0122-best-time-to-buy-and-sell-stock-ii,best-time-to-buy-and-sell-stock-ii/,3SJ3pUkPQMc,Arrays & Hashing
+0560-subarray-sum-equals-k,subarray-sum-equals-k/,fFVZt-6sgyo,Arrays & Hashing
+1930-unique-length-3-palindromic-subsequences,unique-length-3-palindromic-subsequences/,3THUt0vAFLU,Arrays & Hashing
+1963-minimum-number-of-swaps-to-make-the-string-balanced,minimum-number-of-swaps-to-make-the-string-balanced/,3YDBT9ZrfaU,Arrays & Hashing
+2001-number-of-pairs-of-interchangeable-rectangles,number-of-pairs-of-interchangeable-rectangles/,lEQ8ZlLOuyQ,Arrays & Hashing
+2002-maximum-product-of-the-length-of-two-palindromic-subsequences,maximum-product-of-the-length-of-two-palindromic-subsequences/,aoHbYlO8vDg,Arrays & Hashing
+2017-grid-game,grid-game/,N4wDSOw65hI,Arrays & Hashing
+0438-find-all-anagrams-in-a-string,find-all-anagrams-in-a-string/,G8xtZy0fDKg,Arrays & Hashing
+0028-find-the-index-of-the-first-occurrence-in-a-string,find-the-index-of-the-first-occurrence-in-a-string/,JoF0Z7nVSrA,Arrays & Hashing
+0280-wiggle-sort,wiggle-sort/,vGsyTE4s34w,Arrays & Hashing
+0179-largest-number,largest-number/,WDx6Y4i4xJ8,Arrays & Hashing
+0523-continuous-subarray-sum,continuous-subarray-sum/,OKcrLfR-8mE,Arrays & Hashing
+0838-push-dominoes,push-dominoes/,evUFsOb_iLY,Arrays & Hashing
+0187-repeated-dna-sequences,repeated-dna-sequences/,FzTYfsmtOso,Arrays & Hashing
+0380-insert-delete-getrandom-o1,insert-delete-getrandom-o1/,j4KwhBziOpg,Arrays & Hashing
+1461-check-if-a-string-contains-all-binary-codes-of-size-k,check-if-a-string-contains-all-binary-codes-of-size-k/,qU32rTy_kOM,Arrays & Hashing
+0304-range-sum-query-2d-immutable,range-sum-query-2d-immutable/,KE8MQuwE2yA,Arrays & Hashing
+0665-non-decreasing-array,non-decreasing-array/,RegQckCegDk,Arrays & Hashing
+0041-first-missing-positive,first-missing-positive/,8g78yfzMlao,Arrays & Hashing
+1822-sign-of-the-product-of-an-array,sign-of-the-product-of-an-array/,ILDLM86jNow,Arrays & Hashing
+2215-find-the-difference-of-two-arrays,find-the-difference-of-two-arrays/,a4wqKR-znBE,Arrays & Hashing
+1603-design-parking-system,design-parking-system/,d5zCHesOrSk,Arrays & Hashing
+2348-number-of-zero-filled-subarrays,number-of-zero-filled-subarrays/,G-EWVGCcL_w,Arrays & Hashing
+2405-optimal-partition-of-string,optimal-partition-of-string/,CKZPdiXiQf0,Arrays & Hashing
+1396-design-underground-system,design-underground-system/,W5QOLqXskZM,Arrays & Hashing
+2306-naming-a-company,naming-a-company/,NrHpgTScOcY,Arrays & Hashing
+0680-valid-palindrome-ii,valid-palindrome-ii/,JrxRYBwG6EI,Two Pointers
+1984-minimum-difference-between-highest-and-lowest-of-k-scores,minimum-difference-between-highest-and-lowest-of-k-scores/,JU5XdBZZtlk,Two Pointers
+1768-merge-strings-alternately,merge-strings-alternately/,LECWOvTo-Sc,Two Pointers
+0344-reverse-string,reverse-string/,_d0T_2Lk2qA,Two Pointers
+0088-merge-sorted-array,merge-sorted-array/,P1Ic85RarKY,Two Pointers
+0283-move-zeroes,move-zeroes/,aayNRwUN3Do,Two Pointers
+0026-remove-duplicates-from-sorted-array,remove-duplicates-from-sorted-array/,DEJAZBq0FDA,Two Pointers
+0080-remove-duplicates-from-sorted-array-ii,remove-duplicates-from-sorted-array-ii/,ycAq8iqh0TI,Two Pointers
+0167-two-sum-ii-input-array-is-sorted,two-sum-ii-input-array-is-sorted/,cQ1Oz4ckceM,Two Pointers
+0018-4sum,4sum/,EYeR-_1NRlQ,Two Pointers
+1498-number-of-subsequences-that-satisfy-the-given-sum-condition,number-of-subsequences-that-satisfy-the-given-sum-condition/,xCsIkPLS4Ls,Two Pointers
+0189-rotate-array,rotate-array/,BHr381Guz3Y,Two Pointers
+1968-array-with-elements-not-equal-to-average-of-neighbors,array-with-elements-not-equal-to-average-of-neighbors/,Wmb3YdVYfqM,Two Pointers
+0881-boats-to-save-people,boats-to-save-people/,XbaxWuHIWUs,Two Pointers
+0042-trapping-rain-water,trapping-rain-water/,ZI2z5pq0TqA,Two Pointers
+0219-contains-duplicate-ii,contains-duplicate-ii/,ypn0aZ0nrL4,Sliding Window
+1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold,number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/,D8B4tKxMTnY,Sliding Window
+0567-permutation-in-string,permutation-in-string/,UbyhOgBN834,Sliding Window
+1838-frequency-of-the-most-frequent-element,frequency-of-the-most-frequent-element/,vgBrQ0NM5vE,Sliding Window
+0904-fruit-into-baskets,fruit-into-baskets/,yYtaV0G3mWQ,Sliding Window
+1456-maximum-number-of-vowels-in-a-substring-of-given-length,maximum-number-of-vowels-in-a-substring-of-given-length/,kEfPSzgL-Ss,Sliding Window
+1888-minimum-number-of-flips-to-make-the-binary-string-alternating,minimum-number-of-flips-to-make-the-binary-string-alternating/,MOeuK6gaC2A,Sliding Window
+0209-minimum-size-subarray-sum,minimum-size-subarray-sum/,aYqYMIqZx5s,Sliding Window
+0658-find-k-closest-elements,find-k-closest-elements/,o-YDQzHoaKM,Sliding Window
+0239-sliding-window-maximum,sliding-window-maximum/,DfljaUwZsOk,Sliding Window
+0682-baseball-game,baseball-game/,Id_tqGdsZQI,Stack
+0225-implement-stack-using-queues,implement-stack-using-queues/,rW4vm0-DLYc,Stack
+0155-min-stack,min-stack/,qkLl7nAwDPo,Stack
+0150-evaluate-reverse-polish-notation,evaluate-reverse-polish-notation/,iu0082c4HDE,Stack
+2390-removing-stars-from-a-string,removing-stars-from-a-string/,pRyFZIaKegA,Stack
+0946-validate-stack-sequences,validate-stack-sequences/,mzua0r94kb8,Stack
+0022-generate-parentheses,generate-parentheses/,s9fokUqJ76A,Stack
+0735-asteroid-collision,asteroid-collision/,LN7KjRszjk4,Stack
+0739-daily-temperatures,daily-temperatures/,cTBiBSnjO3c,Stack
+0901-online-stock-span,online-stock-span/,slYh0ZNEqSw,Stack
+0853-car-fleet,car-fleet/,Pr6T-3yB9RM,Stack
+0071-simplify-path,simplify-path/,qYlHrAKJfyA,Stack
+0394-decode-string,decode-string/,qB0zZpBJlh8,Stack
+0402-remove-k-digits,remove-k-digits/,cFabMOnJaq0,Stack
+1209-remove-all-adjacent-duplicates-in-string-ii,remove-all-adjacent-duplicates-in-string-ii/,w6LcypDgC4w,Stack
+0456-132-pattern,456-pattern/,q5ANAl8Z458,Stack
+0895-maximum-frequency-stack,maximum-frequency-stack/,Z6idIicFDOE,Stack
+0084-largest-rectangle-in-histogram,largest-rectangle-in-histogram/,zx5Sw9130L0,Stack
+0704-binary-search,binary-search/,s4DPM8ct1pI,Binary Search
+0035-search-insert-position,search-insert-position/,K-RYzDZkzCI,Binary Search
+0374-guess-number-higher-or-lower,guess-number-higher-or-lower/,xW4QsTtaCa4,Binary Search
+0441-arranging-coins,arranging-coins/,5rHz_6s2Buw,Binary Search
+0977-squares-of-a-sorted-array,squares-of-a-sorted-array/,FPCZsG_AkUg,Binary Search
+0367-valid-perfect-square,valid-perfect-square/,Cg_wWPHJ2Sk,Binary Search
+0069-sqrtx,sqrtx/,zdMhGxRWutQ,Binary Search
+0540-single-element-in-a-sorted-array,single-element-in-a-sorted-array/,HGtqdzyUJ3k,Binary Search
+1011-capacity-to-ship-packages-within-d-days,capacity-to-ship-packages-within-d-days/,ER_oLmdc-nw,Binary Search
+0162-find-peak-element,find-peak-element/,kMzJy9es7Hc,Binary Search
+2300-successful-pairs-of-spells-and-potions,successful-pairs-of-spells-and-potions/,OKnm5oyAhWg,Binary Search
+0074-search-a-2d-matrix,search-a-2d-matrix/,Ber2pi2C0j0,Binary Search
+0875-koko-eating-bananas,koko-eating-bananas/,U2SozAs9RzA,Binary Search
+0981-time-based-key-value-store,time-based-key-value-store/,fu2cD_6E8Hw,Binary Search
+0034-find-first-and-last-position-of-element-in-sorted-array,find-first-and-last-position-of-element-in-sorted-array/,4sQL7R5ySUU,Binary Search
+1898-maximum-number-of-removable-characters,maximum-number-of-removable-characters/,NMP3nRPyX5g,Binary Search
+0116-populating-next-right-pointers-in-each-node,populating-next-right-pointers-in-each-node/,U4hFQCa1Cq0,Binary Search
+1268-search-suggestions-system,search-suggestions-system/,D4T2N0yAr20,Binary Search
+0410-split-array-largest-sum,split-array-largest-sum/,YUF3_eBdzsk,Binary Search
+0004-median-of-two-sorted-arrays,median-of-two-sorted-arrays/,q6IEA26hvXc,Binary Search
+0234-palindrome-linked-list,palindrome-linked-list/,yOzXms1J6Nk,Linked List
+0203-remove-linked-list-elements,remove-linked-list-elements/,JI71sxtHTng,Linked List
+0083-remove-duplicates-from-sorted-list,remove-duplicates-from-sorted-list/,p10f-VpO4nE,Linked List
+0876-middle-of-the-linked-list,middle-of-the-linked-list/,A2_ldqM4QcY,Linked List
+0160-intersection-of-two-linked-lists,intersection-of-two-linked-lists/,D0X0BONOQhI,Linked List
+2130-maximum-twin-sum-of-a-linked-list,maximum-twin-sum-of-a-linked-list/,doj95MelfSA,Linked List
+1721-swapping-nodes-in-a-linked-list,swapping-nodes-in-a-linked-list/,4LsrgMyQIjQ,Linked List
+0460-lfu-cache,lfu-cache/,bLEIHn-DgoA,Linked List
+0138-copy-list-with-random-pointer,copy-list-with-random-pointer/,5Y2EiZST97Y,Linked List
+0707-design-linked-list,design-linked-list/,Wf4QhpdVFQo,Linked List
+1472-design-browser-history,design-browser-history/,i1G-kKnBu8k,Linked List
+0002-add-two-numbers,add-two-numbers/,wgFPrzTjm7s,Linked List
+0287-find-the-duplicate-number,find-the-duplicate-number/,wjYnzkAhcNk,Linked List
+0024-swap-nodes-in-pairs,swap-nodes-in-pairs/,o811TZLAWOo,Linked List
+0148-sort-list,sort-list/,TGveA1oFhrc,Linked List
+0086-partition-list,partition-list/,KT1iUciJr4g,Linked List
+0061-rotate-list,rotate-list/,UcGtPs2LE_c,Linked List
+0092-reverse-linked-list-ii,reverse-linked-list-ii/,RF_M9tX4Eag,Linked List
+0622-design-circular-queue,design-circular-queue/,aBbsfn863oA,Linked List
+0147-insertion-sort-list,insertion-sort-list/,Kk6mXAzqX3Y,Linked List
+0146-lru-cache,lru-cache/,7ABFKPK2hD4,Linked List
+0025-reverse-nodes-in-k-group,reverse-nodes-in-k-group/,1UOPsfP85V4,Linked List
+0094-binary-tree-inorder-traversal,binary-tree-inorder-traversal/,g_S5WuasWUE,Trees
+0144-binary-tree-preorder-traversal,binary-tree-preorder-traversal/,afTpieEZXck,Trees
+0145-binary-tree-postorder-traversal,binary-tree-postorder-traversal/,QhszUQhGGlA,Trees
+0543-diameter-of-binary-tree,diameter-of-binary-tree/,bkxqA8Rfv04,Trees
+0110-balanced-binary-tree,balanced-binary-tree/,QfJsau0ItOY,Trees
+0108-convert-sorted-array-to-binary-search-tree,convert-sorted-array-to-binary-search-tree/,0K0uCMYq5ng,Trees
+0617-merge-two-binary-trees,merge-two-binary-trees/,QHH6rIK3dDQ,Trees
+0112-path-sum,path-sum/,LSKQyOz_P8I,Trees
+0606-construct-string-from-binary-tree,construct-string-from-binary-tree/,b1WpYxnuebQ,Trees
+0701-insert-into-a-binary-search-tree,insert-into-a-binary-search-tree/,Cpg8f79luEA,Trees
+0450-delete-node-in-a-bst,delete-node-in-a-bst/,LFzAoJJt92M,Trees
+0199-binary-tree-right-side-view,binary-tree-right-side-view/,d4zLyf32e3I,Trees
+0783-minimum-distance-between-bst-nodes,minimum-distance-between-bst-nodes/,joxx4hTYwcw,Trees
+0101-symmetric-tree,symmetric-tree/,Mao9uzxwvmc,Trees
+1443-minimum-time-to-collect-all-apples-in-a-tree,minimum-time-to-collect-all-apples-in-a-tree/,Xdt5Z583auM,Trees
+0103-binary-tree-zigzag-level-order-traversal,binary-tree-zigzag-level-order-traversal/,igbboQbiwqw,Trees
+0427-construct-quad-tree,construct-quad-tree/,UQ-1sBMV0v4,Trees
+0652-find-duplicate-subtrees,find-duplicate-subtrees/,kn0Z5_qPPzY,Trees
+0958-check-completeness-of-a-binary-tree,check-completeness-of-a-binary-tree/,olbiZ-EOSig,Trees
+0106-construct-binary-tree-from-inorder-and-postorder-traversal,construct-binary-tree-from-inorder-and-postorder-traversal/,vm63HuIU7kw,Trees
+0662-maximum-width-of-binary-tree,maximum-width-of-binary-tree/,FPzLE2L7uHs,Trees
+1376-time-needed-to-inform-all-employees,time-needed-to-inform-all-employees/,zdBYi0p4L5Q,Trees
+1448-count-good-nodes-in-binary-tree,count-good-nodes-in-binary-tree/,7cp5imvDzl4,Trees
+0096-unique-binary-search-trees,unique-binary-search-trees/,Ox0TenN3Zpg,Trees
+0129-sum-root-to-leaf-numbers,sum-root-to-leaf-numbers/,Jk16lZGFWxE,Trees
+0337-house-robber-iii,house-robber-iii/,nHR8ytpzz7c,Trees
+0951-flip-equivalent-binary-trees,flip-equivalent-binary-trees/,izRDc1il9Pk,Trees
+1993-operations-on-tree,operations-on-tree/,qK4PtjrVD0U,Trees
+0894-all-possible-full-binary-trees,all-possible-full-binary-trees/,nZtrZPTTCAo,Trees
+0513-find-bottom-left-tree-value,find-bottom-left-tree-value/,u_by_cTsNJA,Trees
+0669-trim-a-binary-search-tree,trim-a-binary-search-tree/,jwt5mTjEXGc,Trees
+0173-binary-search-tree-iterator,binary-search-tree-iterator/,RXy5RzGF5wo,Trees
+0538-convert-bst-to-greater-tree,convert-bst-to-greater-tree/,7vVEJwVvAlI,Trees
+0703-kth-largest-element-in-a-stream,kth-largest-element-in-a-stream/,hOjcdrqMoQ8,Heap / Priority Queue
+1046-last-stone-weight,last-stone-weight/,B-QCq79-Vfw,Heap / Priority Queue
+0973-k-closest-points-to-origin,k-closest-points-to-origin/,rI2EBUEMfTk,Heap / Priority Queue
+0215-kth-largest-element-in-an-array,kth-largest-element-in-an-array/,XEmy13g1Qxc,Heap / Priority Queue
+0621-task-scheduler,task-scheduler/,s8p8ukTyA2I,Heap / Priority Queue
+0355-design-twitter,design-twitter/,pNichitDD2E,Heap / Priority Queue
+1675-minimize-deviation-in-array,minimize-deviation-in-array/,boHNFptxo2A,Heap / Priority Queue
+2542-maximum-subsequence-score,maximum-subsequence-score/,ax1DKi5lJwk,Heap / Priority Queue
+1834-single-threaded-cpu,single-threaded-cpu/,RR1n-d4oYqE,Heap / Priority Queue
+1845-seat-reservation-manager,seat-reservation-manager/,ahobllKXEEY,Heap / Priority Queue
+1882-process-tasks-using-servers,process-tasks-using-servers/,XKA22PecuMQ,Heap / Priority Queue
+1985-find-the-kth-largest-integer-in-the-array,find-the-kth-largest-integer-in-the-array/,lRCaNiqO3xI,Heap / Priority Queue
+0767-reorganize-string,reorganize-string/,2g_b1aYTHeg,Heap / Priority Queue
+1405-longest-happy-string,longest-happy-string/,8u-H6O_XQKE,Heap / Priority Queue
+1094-car-pooling,car-pooling/,08sn_w4LWEE,Heap / Priority Queue
+1383-maximum-performance-of-a-team,maximum-performance-of-a-team/,Y7UTvogADH0,Heap / Priority Queue
+0502-ipo,ipo/,1IUzNJ6TPEM,Heap / Priority Queue
+0078-subsets,subsets/,REOH22Xwdkk,Backtracking
+0077-combinations,combinations/,q0s6m7AiM7o,Backtracking
+0046-permutations,permutations/,s7AvT7cGdSo,Backtracking
+0090-subsets-ii,subsets-ii/,Vn2v6ajA7U0,Backtracking
+0040-combination-sum-ii,combination-sum-ii/,rSA3t6BDDwg,Backtracking
+0047-permutations-ii,permutations-ii/,qhBVWf0YafA,Backtracking
+0131-palindrome-partitioning,palindrome-partitioning/,3jvWodd7ht0,Backtracking
+0093-restore-ip-addresses,restore-ip-addresses/,61tN4YEdiTM,Backtracking
+0017-letter-combinations-of-a-phone-number,letter-combinations-of-a-phone-number/,0snEunUacZY,Backtracking
+0473-matchsticks-to-square,matchsticks-to-square/,hUe0cUKV-YY,Backtracking
+1849-splitting-a-string-into-descending-consecutive-values,splitting-a-string-into-descending-consecutive-values/,eDtMmysldaw,Backtracking
+1980-find-unique-binary-string,find-unique-binary-string/,aHqn4Dynd1k,Backtracking
+1239-maximum-length-of-a-concatenated-string-with-unique-characters,maximum-length-of-a-concatenated-string-with-unique-characters/,d4SPuvkaeoo,Backtracking
+0698-partition-to-k-equal-sum-subsets,partition-to-k-equal-sum-subsets/,mBk4I0X46oI,Backtracking
+0051-n-queens,n-queens/,Ph95IHmRp5M,Backtracking
+0052-n-queens-ii,n-queens-ii/,nalYyLZgvCY,Backtracking
+0463-island-perimeter,island-perimeter/,fISIuAFRM2s,Graphs
+0953-verifying-an-alien-dictionary,verifying-an-alien-dictionary/,OVgPAJIyX6o,Graphs
+0695-max-area-of-island,max-area-of-island/,iJGr1OtmH0c,Graphs
+1905-count-sub-islands,count-sub-islands/,mLpW3qfbNJ8,Graphs
+0130-surrounded-regions,surrounded-regions/,9z2BunfoZ5Y,Graphs
+1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero,reorder-routes-to-make-all-paths-lead-to-the-city-zero/,m17yOR5_PpI,Graphs
+0994-rotting-oranges,rotting-oranges/,y704fEOx0s0,Graphs
+0286-walls-and-gates,walls-and-gates/,e69C6xhiSQE,Graphs
+0909-snakes-and-ladders,snakes-and-ladders/,6lH4nO3JfLk,Graphs
+0752-open-the-lock,open-the-lock/,Pzg3bCDY87w,Graphs
+0802-find-eventual-safe-states,find-eventual-safe-states/,Re_v0j0CRsg,Graphs
+0210-course-schedule-ii,course-schedule-ii/,Akt3glAwyfY,Graphs
+1462-course-schedule-iv,course-schedule-iv/,cEW05ofxhn0,Graphs
+1958-check-if-move-is-legal,check-if-move-is-legal/,KxK33AcQZpQ,Graphs
+0934-shortest-bridge,shortest-bridge/,gkINMhbbIbU,Graphs
+1091-shortest-path-in-binary-matrix,shortest-path-in-binary-matrix/,YnxUdAO7TAo,Graphs
+0684-redundant-connection,redundant-connection/,FXWRE67PLL0,Graphs
+0721-accounts-merge,accounts-merge/,6st4IxEF-90,Graphs
+2359-find-closest-node-to-given-two-nodes,find-closest-node-to-given-two-nodes/,AZA8orksO4w,Graphs
+1091-shortest-path-in-binary-matrix,shortest-path-in-binary-matrix/,YnxUdAO7TAo,Graphs
+1162-as-far-from-land-as-possible,as-far-from-land-as-possible/,fjxb1hQfrZk,Graphs
+1129-shortest-path-with-alternating-colors,shortest-path-with-alternating-colors/,69rcy6lb-HQ,Graphs
+2477-minimum-fuel-cost-to-report-to-the-capital,minimum-fuel-cost-to-report-to-the-capital/,I3lnDUIzIG4,Graphs
+2492-minimum-score-of-a-path-between-two-cities,minimum-score-of-a-path-between-two-cities/,K7-mXA0irhY,Graphs
+1254-number-of-closed-islands,number-of-closed-islands/,X8k48xek8g8,Graphs
+1020-number-of-enclaves,number-of-enclaves/,gf0zsh1FIgE,Graphs
+1557-minimum-number-of-vertices-to-reach-all-nodes,minimum-number-of-vertices-to-reach-all-nodes/,TLzcum7vrTc,Graphs
+0785-is-graph-bipartite,is-graph-bipartite/,mev55LTubBY,Graphs
+0399-evaluate-division,evaluate-division/,Uei1fwDoyKk,Graphs
+2101-detonate-the-maximum-bombs,detonate-the-maximum-bombs/,8NPbAvVXKR4,Graphs
+1857-largest-color-value-in-a-directed-graph,largest-color-value-in-a-directed-graph/,xLoDjKczUSk,Graphs
+1553-minimum-number-of-days-to-eat-n-oranges,minimum-number-of-days-to-eat-n-oranges/,LziQ6Qx9sks,Graphs
+0127-word-ladder,word-ladder/,h9iTnkgv05E,Graphs
+0332-reconstruct-itinerary,reconstruct-itinerary/,ZyB_gQ8vqGA,Advanced Graphs
+1584-min-cost-to-connect-all-points,min-cost-to-connect-all-points/,f7JOBJIC-NA,Advanced Graphs
+0743-network-delay-time,network-delay-time/,EaphyqKU4PQ,Advanced Graphs
+1514-path-with-maximum-probability,path-with-maximum-probability/,kPsDTGcrzGM,Advanced Graphs
+0778-swim-in-rising-water,swim-in-rising-water/,amvrKlMLuGY,Advanced Graphs
+0787-cheapest-flights-within-k-stops,cheapest-flights-within-k-stops/,5eIK3zUdYmE,Advanced Graphs
+2421-number-of-good-paths,number-of-good-paths/,rv2GBYQm7xM,Advanced Graphs
+1579-remove-max-number-of-edges-to-keep-graph-fully-traversable,remove-max-number-of-edges-to-keep-graph-fully-traversable/,booGwg5wYm4,Advanced Graphs
+0746-min-cost-climbing-stairs,min-cost-climbing-stairs/,ktmzAZWkEZ0,1-D Dynamic Programming
+0416-partition-equal-subset-sum,partition-equal-subset-sum/,IsvocB5BJhw,1-D Dynamic Programming
+0120-triangle,triangle/,OM1MTokvxs4,1-D Dynamic Programming
+0740-delete-and-earn,delete-and-earn/,7FCemBxvGw0,1-D Dynamic Programming
+0256-paint-house,paint-house/,-w67-4tnH5U,1-D Dynamic Programming
+0377-combination-sum-iv,combination-sum-iv/,dw2nMCxG0ik,1-D Dynamic Programming
+0279-perfect-squares,perfect-squares/,HLZLwjzIVGo,1-D Dynamic Programming
+1856-maximum-subarray-min-product,maximum-subarray-min-product/,YLesLbNkyjA,1-D Dynamic Programming
+0983-minimum-cost-for-tickets,minimum-cost-for-tickets/,4pY1bsBpIY4,1-D Dynamic Programming
+0343-integer-break,integer-break/,in6QbUPMJ3I,1-D Dynamic Programming
+0673-number-of-longest-increasing-subsequence,number-of-longest-increasing-subsequence/,Tuc-rjJbsXU,1-D Dynamic Programming
+0691-stickers-to-spell-word,stickers-to-spell-word/,hsomLb6mUdI,1-D Dynamic Programming
+1137-n-th-tribonacci-number,n-th-tribonacci-number/,3lpNp5Ojvrw,1-D Dynamic Programming
+1035-uncrossed-lines,uncrossed-lines/,mnJF4vJ7GyE,1-D Dynamic Programming
+2140-solving-questions-with-brainpower,solving-questions-with-brainpower/,D7TD_ArkfkA,1-D Dynamic Programming
+2466-count-ways-to-build-good-strings,count-ways-to-build-good-strings/,JKpVHG2mhbk,1-D Dynamic Programming
+0837-new-21-game,new-21-game/,zKi4LzjK27k,1-D Dynamic Programming
+1626-best-team-with-no-conflicts,best-team-with-no-conflicts/,7kURH3btcV4,1-D Dynamic Programming
+1406-stone-game-iii,stone-game-iii/,HsLG5QW9CFQ,1-D Dynamic Programming
+0472-concatenated-words,concatenated-words/,iHp7fjw1R28,1-D Dynamic Programming
+1799-maximize-score-after-n-operations,maximize-score-after-n-operations/,RRQVDqp5RSE,1-D Dynamic Programming
+1964-find-the-longest-valid-obstacle-course-at-each-position,find-the-longest-valid-obstacle-course-at-each-position/,Xq9VT7p0lic,1-D Dynamic Programming
+0063-unique-paths-ii,unique-paths-ii/,d3UOz7zdE4I,2-D Dynamic Programming
+0516-longest-palindromic-subsequence,longest-palindromic-subsequence/,bUr8cNWI09Q,2-D Dynamic Programming
+1049-last-stone-weight-ii,last-stone-weight-ii/,gdXkkmzvR3c,2-D Dynamic Programming
+0309-best-time-to-buy-and-sell-stock-with-cooldown,best-time-to-buy-and-sell-stock-with-cooldown/,I7j0F7AHpb8,2-D Dynamic Programming
+0518-coin-change-ii,coin-change-ii/,Mjy4hd2xgrs,2-D Dynamic Programming
+0494-target-sum,target-sum/,g0npyaQtAQM,2-D Dynamic Programming
+0097-interleaving-string,interleaving-string/,3Rw3p9LrgvE,2-D Dynamic Programming
+0877-stone-game,stone-game/,uhgdXOlGYqE,2-D Dynamic Programming
+0064-minimum-path-sum,minimum-path-sum/,pGMsrvt0fpk,2-D Dynamic Programming
+0329-longest-increasing-path-in-a-matrix,longest-increasing-path-in-a-matrix/,wCc_nd-GiEc,2-D Dynamic Programming
+0221-maximal-square,maximal-square/,6X7Ha2PrDmM,2-D Dynamic Programming
+0474-ones-and-zeroes,ones-and-zeroes/,miZ3qV04b1g,2-D Dynamic Programming
+1911-maximum-alternating-subsequence-sum,maximum-alternating-subsequence-sum/,4v42XOuU1XA,2-D Dynamic Programming
+0115-distinct-subsequences,distinct-subsequences/,-RDzMJ33nx8,2-D Dynamic Programming
+0072-edit-distance,edit-distance/,XYi2-LPrwm4,2-D Dynamic Programming
+1220-count-vowels-permutation,count-vowels-permutation/,VUVpTZVa7Ls,2-D Dynamic Programming
+0312-burst-balloons,burst-balloons/,VFskby7lUbw,2-D Dynamic Programming
+1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible,number-of-ways-to-rearrange-sticks-with-k-sticks-visible/,O761YBjGxGA,2-D Dynamic Programming
+0010-regular-expression-matching,regular-expression-matching/,HAA8mgxlov8,2-D Dynamic Programming
+1140-stone-game-ii,stone-game-ii/,I-z-u0zfQtg,2-D Dynamic Programming
+0926-flip-string-to-monotone-increasing,flip-string-to-monotone-increasing/,tMq9z5k3umQ,2-D Dynamic Programming
+2218-maximum-value-of-k-coins-from-piles,maximum-value-of-k-coins-from-piles/,ZRdEd_eun8g,2-D Dynamic Programming
+1639-number-of-ways-to-form-a-target-string-given-a-dictionary,number-of-ways-to-form-a-target-string-given-a-dictionary/,_GF-0T-YjW8,2-D Dynamic Programming
+0879-profitable-schemes,profitable-schemes/,CcLKQLKvOl8,2-D Dynamic Programming
+1547-minimum-cost-to-cut-a-stick,minimum-cost-to-cut-a-stick/,EVxTO5I0d7w,2-D Dynamic Programming
+0918-maximum-sum-circular-subarray,maximum-sum-circular-subarray/,fxT9KjakYPM,Greedy
+0978-longest-turbulent-subarray,longest-turbulent-subarray/,V_iHUhR8Dek,Greedy
+0045-jump-game-ii,jump-game-ii/,dJ7sWiOoK7g,Greedy
+1871-jump-game-vii,jump-game-vii/,v1HpZUnQ4Yo,Greedy
+0134-gas-station,gas-station/,lJwbPZGo05A,Greedy
+0846-hand-of-straights,hand-of-straights/,amnrMCVd2YI,Greedy
+2439-minimize-maximum-of-array,minimize-maximum-of-array/,AeHMvcKuR0Y,Greedy
+0649-dota2-senate,dota2-senate/,zZA5KskfMuQ,Greedy
+1423-maximum-points-you-can-obtain-from-cards,maximum-points-you-can-obtain-from-cards/,TsA4vbtfCvo,Greedy
+1899-merge-triplets-to-form-target-triplet,merge-triplets-to-form-target-triplet/,kShkQLQZ9K4,Greedy
+0763-partition-labels,partition-labels/,B7m8UmZE-vw,Greedy
+0678-valid-parenthesis-string,valid-parenthesis-string/,QhPdNS143Qg,Greedy
+1921-eliminate-maximum-number-of-monsters,eliminate-maximum-number-of-monsters/,6QQRayzOTD4,Greedy
+1029-two-city-scheduling,two-city-scheduling/,d-B_gk_gJtQ,Greedy
+1288-remove-covered-intervals,remove-covered-intervals/,nhAsMabiVkM,Intervals
+1851-minimum-interval-to-include-each-query,minimum-interval-to-include-each-query/,5hQ5WWW5awQ,Intervals
+0352-data-stream-as-disjoint-intervals,data-stream-as-disjoint-intervals/,FavoZjPIWpo,Intervals
+1071-greatest-common-divisor-of-strings,greatest-common-divisor-of-strings/,i5I_wrbUdzM,Math & Geometry
+1523-count-odd-numbers-in-an-interval-range,count-odd-numbers-in-an-interval-range/,wrIWye928JQ,Math & Geometry
+1572-matrix-diagonal-sum,matrix-diagonal-sum/,WliTu6gIK7o,Math & Geometry
+0149-max-points-on-a-line,max-points-on-a-line/,Bb9lOXUOnFw,Math & Geometry
+0059-spiral-matrix-ii,spiral-matrix-ii/,RvLrWFBJ9fM,Math & Geometry
+0202-happy-number,happy-number/,ljz85bxOYJ0,Math & Geometry
+0066-plus-one,plus-one/,jIaA8boiG1s,Math & Geometry
+0009-palindrome-number,palindrome-number/,yubRKwixN-U,Math & Geometry
+0263-ugly-number,ugly-number/,M0Zay1Qr9ws,Math & Geometry
+1260-shift-2d-grid,shift-2d-grid/,nJYFh4Dl-as,Math & Geometry
+0013-roman-to-integer,roman-to-integer/,3jdxYj3DD98,Math & Geometry
+0012-integer-to-roman,integer-to-roman/,ohBNdSJyLh8,Math & Geometry
+0050-powx-n,powx-n/,g9YQyYi4IQQ,Math & Geometry
+0043-multiply-strings,multiply-strings/,1vZswirL8Y8,Math & Geometry
+2013-detect-squares,detect-squares/,bahebearrDc,Math & Geometry
+1041-robot-bounded-in-circle,robot-bounded-in-circle/,nKv2LnC_g6E,Math & Geometry
+0006-zigzag-conversion,zigzag-conversion/,Q2Tw6gcVEwc,Math & Geometry
+2028-find-missing-observations,find-missing-observations/,86yKkaNi3sU,Math & Geometry
+0136-single-number,single-number/,qMPX1AOa83k,Bit Manipulation
+1470-shuffle-the-array,shuffle-the-array/,IvIKD_EU8BY,Bit Manipulation
+0989-add-to-array-form-of-integer,add-to-array-form-of-integer/,eBTZQt1TWfk,Bit Manipulation
+0007-reverse-integer,reverse-integer/,HAgLH58IgJQ,Bit Manipulation
+0067-add-binary,add-binary/,keuWJ47xG8g,Bit Manipulation
+2667-create-hello-world-function,create-hello-world-function/,P9Ldx1eTlRc,JavaScript
+2620-counter,counter/,yEGQQAG5V68,JavaScript
+2665-counter-ii,counter-ii/,UXNXKGFZD08,JavaScript
+2635-apply-transform-over-each-element-in-array,apply-transform-over-each-element-in-array/,7FhJHA5jlYk,JavaScript
+2634-filter-elements-from-array,filter-elements-from-array/,w1o81gbEEJU,JavaScript
+2626-array-reduce-transformation,array-reduce-transformation/,KmTbYfpGxdM,JavaScript
+2629-function-composition,function-composition/,mIFw1H7Ljco,JavaScript
+2666-allow-one-function-call,allow-one-function-call/,m_SWhM9iX3s,JavaScript
+2623-memoize,memoize/,oFXyzJt9VeU,JavaScript
+2632-curry,curry/,pi4kqMWQXxA,JavaScript
+2621-sleep,sleep/,P0D9Z6H7O00,JavaScript
+2637-promise-time-limit,promise-time-limit/,hfH57rdZhOk,JavaScript
+2636-promise-pool,promise-pool/,DB8pAAg-9xw,JavaScript
+2622-cache-with-time-limit,cache-with-time-limit/,w772gtNK0Gw,JavaScript
+2627-debounce,debounce/,1sxSpnxNx5w,JavaScript
+2676-throttle,throttle/,zyGZV_fIQWk,JavaScript
+2628-json-deep-equal,json-deep-equal/,4JVZ-mVqJPg,JavaScript
+2633-convert-object-to-json-string,convert-object-to-json-string/,f94fUbHU-FY,JavaScript
+2675-array-of-objects-to-matrix,array-of-objects-to-matrix/,LJwgAMHGcI0,JavaScript
+2700-differences-between-two-objects,differences-between-two-objects/,gH7oZs1WZfg,JavaScript
+2677-chunk-array,chunk-array/,VUN-O3B9ceY,JavaScript
+2625-flatten-deeply-nested-array,flatten-deeply-nested-array/,_DetLPKtFNk,JavaScript
+2619-array-prototype-last,array-prototype-last/,3JdtfMBrUqc,JavaScript
+2631-group-by,group-by/,zs9axOyYHRE,JavaScript
+2618-check-if-object-instance-of-class,check-if-object-instance-of-class/,meIo-Q07Ba8,JavaScript
+2693-call-function-with-custom-context,call-function-with-custom-context/,du_GH-Ooa8E,JavaScript
+2694-event-emitter,event-emitter/,M69bjWFarU0,JavaScript
+2695-array-wrapper,array-wrapper/,XoGjPdPTAVA,JavaScript
+2648-generate-fibonacci-sequence,generate-fibonacci-sequence/,T643rQ70Jlk,JavaScript
+2649-nested-array-generator,nested-array-generator/,yo-J1jQaZYU,JavaScript
